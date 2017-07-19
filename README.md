@@ -1,2 +1,2 @@
 # CsCourse.WpfBasics
-A simple WPF application to show how to create an interactive GUI
+A simple WPF application showing how to create an interactive GUI
